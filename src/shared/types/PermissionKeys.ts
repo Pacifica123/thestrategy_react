@@ -1,0 +1,1 @@
+export type PermissionKey = 'view_project' | 'edit_project' | 'delete_project' | 'invite_member' | 'remove_member' | 'manage_permissions' | 'create_taskboard' | 'edit_taskboard' | 'delete_taskboard' | 'create_column' | 'edit_column' | 'delete_column' | 'create_task' | 'edit_task' | 'delete_task' | 'check_task';
